@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=Welcome%20to%20JuHwan's%20GitHub%20🙋🏻&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> SOFT한 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 여러 가지 채소들을 어우러지게 만드는 샐러드의 드레싱처럼 SOFT SKILL을 바탕으로 팀원 들을 하나 되게 만들고 업무 환경에서 유연한 협업을 이끌어내는 사람입니다.</li><li> 개발뿐만 아니라 서비스를 안전하게 운영 및 유지할 수 있는 개발자가 되는 것이 목표입니다. </div> 
+   <!-- <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> SOFT한 개발자 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 여러 가지 채소들을 어우러지게 만드는 샐러드의 드레싱처럼 SOFT SKILL을 바탕으로 팀원 들을 하나 되게 만들고 업무 환경에서 유연한 협업을 이끌어내는 사람입니다.</li><li> 개발뿐만 아니라 서비스를 안전하게 운영 및 유지할 수 있는 개발자가 되는 것이 목표입니다. </div> -->
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
